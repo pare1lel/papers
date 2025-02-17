@@ -1,0 +1,53 @@
+.page-footer {
+    margin-top: 50px;
+    border-top: 1px solid #ccc;
+    overflow: hidden;
+    padding: 10px 0;
+    color: gray;
+}
+
+/* 修改章节目录的间距 */
+.chapter li.chapter-item {
+    /* 没有文件时的文字颜色 */
+    color: #939da3;
+    margin-top: 1.5rem;
+}
+
+/* 修改滚动条宽度 */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background: #99ccff;
+    border-radius: 3px;
+}
+
+/* 表格靠左对齐 */
+table {
+    margin-left: 0 !important;
+}
+
+/* 只使用底部的页面跳转，因为左右两边的宽跳转会被 page-toc 遮盖 */
+@media only screen and (max-width: 2560px) {
+    .nav-wide-wrapper { display: none; }
+    .nav-wrapper { 
+        display: block;
+        position: fixed;
+        bottom: 50px;
+        left: var(--page-padding);
+        right: var(--page-padding); 
+    }
+}
+@media only screen and (max-width: 2560px) {
+    .sidebar-visible .nav-wide-wrapper { display: none; }
+    .sidebar-visible .nav-wrapper { 
+        display: block;
+        left: calc(var(--sidebar-width) + var(--page-padding));
+    }
+}
+
+.mobile-nav-chapters {
+    width: 40px;
+    font-size: 2.5rem
+}

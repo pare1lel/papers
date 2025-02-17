@@ -4,3 +4,13 @@ language = "en"
 multilingual = false
 src = "src"
 title = "论文阅读笔记"
+
+[output.html]
+git-repository-url = "https://github.com/pare1lel/papers"
+mathjax-support = true
+additional-css = ["style.css"]
+additional-js = ["bigpicture.js", "custom.js"]
+
+[output.html.fold]
+enable = true
+level = 0
