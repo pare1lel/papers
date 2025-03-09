@@ -66,7 +66,7 @@
 汉字是日语中使用的另一种写作系统, 属于<ruby>**语素文字**<rp>(</rp><rt>logogram</rt><rp>)</rp></ruby>, 比假名更广泛也更复杂, 大约有 2~3k 种用法.  
 汉字是单词的组成部件, **在单词中使用时才有意义**, 学习者应当在理解单词的同时记忆汉字.  
 作者推荐使用 Anki 记忆 1500 个单词, 为进一步的学习打下基础.  
-例如在 Google Play 上下载 AnkiDroid, 下载 [github 仓库](https://github.com/donkuri/Kaishi/releases)上的牌组并导入.
+**只推荐安装 PC 端的 [Anki 应用](https://apps.ankiweb.net/)**, 之后下载 [github 仓库](https://github.com/donkuri/Kaishi/releases)上的牌组并导入即可.
 
 ### Grammar
 
@@ -89,7 +89,7 @@
 ### Day 1: Starting kana stage
 
 我们需要掌握假名的用法, 在 3 天之内读完 [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim#6%20The%20Scripts) 中对假名的介绍.  
-按照[主教程](#how-to-learn-the-kana)的方法学习假名. 注意练习假名的写法, 不必担心字迹是否工整.
+按照[主教程](#how-to-learn-the-kana)的方法学习假名. 注意练习假名的写法和相似假名之间的区别, 不必担心字迹是否工整.
 
 ### Day 2: Creating your own Japan at home
 
@@ -111,9 +111,17 @@
 如果假名还没有熟练掌握, 继续[默写练习](https://gohoneko.neocities.org/learn/kana).  
 观看 3 个 [Cure Dolly 的视频](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj), 推荐开启字幕. 推荐记笔记, 包括重要和记忆性的内容, 尽量简明.
 
-继续使用沉浸式方法, 可以取消观看带字幕片源的步骤, 并使用 [Jisho](https://jisho.org/) 搜索感兴趣的单词.
+继续使用沉浸式方法, 理解能力足够时可以不观看带字幕的片源, 使用 [Jisho](https://jisho.org/) 搜索感兴趣的单词.
 
 ### Day 4: Using Anki for the first time
 
 如果假名还没有熟练掌握, 继续[默写练习](https://gohoneko.neocities.org/learn/kana); 观看 3 个 [Cure Dolly 的视频](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj).  
-按照[主教程](#vocabulary-and-kanji)的方法安装 Anki 并导入牌组.
+按照[主教程](#vocabulary-and-kanji)的方法安装 Anki 并导入牌组, 按照[原文](https://learnjapanese.moe/routine/#stage-learning-kanji-and-new-words-using-anki-for-the-first-time)的步骤设置 Anki 并上手.
+
+### Day 5: Continue...
+
+继续假名, Anki, Cure Dolly, 看动画练习.
+
+### Day 6: First ever reading practice - Japanese subtitles!
+
+继续假名, Anki, Cure Dolly, 看动画练习. 按照[原文](https://learnjapanese.moe/routine/#stage-first-ever-reading-practice-japanese-subtitles)的步骤安装 Yomitan, asbplayer 等.

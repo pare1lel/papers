@@ -7,4 +7,5 @@
 - [A Graduate Course in Applied Cryptography](./cryptocourse/README.md)
   - [Encryption](./cryptocourse/encryption.md)
 - [Guide on Japanese Learning](./learnjapanese/README.md)
-  - [TheMoeWay](./learnjapanese/moe.md)
+  - [The Moe Way](./learnjapanese/moe.md)
+  - [Cure Dolly](./learnjapanese/curedolly.md)
